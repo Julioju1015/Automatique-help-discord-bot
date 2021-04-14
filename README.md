@@ -1,2 +1,3 @@
 # Automatique-help-discord-bot
-your desc
+Un bot discord avec un help automatique et quelquepetit commandes.
+
